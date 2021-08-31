@@ -25,7 +25,7 @@
         "twig/twig": "*",
         "laminas/laminas-json": "^3.1@dev"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
             "Solution\\CodeMirrorBundle": ""
