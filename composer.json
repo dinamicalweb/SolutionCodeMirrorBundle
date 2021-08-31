@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "^4.4",
+        "symfony/symfony": "4.4.*",
         "twig/twig": "*",
         "laminas/laminas-json": "^3.1@dev"
     },
